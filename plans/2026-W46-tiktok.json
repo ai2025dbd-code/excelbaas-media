@@ -1,0 +1,13 @@
+{
+ "week": "2026-W46-tiktok",
+ "items": [
+  {"id": "tt01-sneltoetsen", "kind": "reel", "when": "2026-11-11T18:00", "secs": 3.2,
+   "frames": [
+    {"type": "reel_title", "headline": "3 Excel-sneltoetsen die je [[uren]] schelen", "sub": "Bewaar deze voor later."},
+    {"type": "reel_tip", "kicker": "Sneltoets 1", "headline": "Alt + =", "text": "Telt de hele kolom in één keer op. Geen [[SOM]] meer typen.", "size": 190},
+    {"type": "reel_tip", "kicker": "Sneltoets 2", "headline": "Ctrl + T", "text": "Maakt van je lijst een [[slimme tabel]] met filters en kleuren.", "size": 190},
+    {"type": "reel_tip", "kicker": "Sneltoets 3", "headline": "Ctrl + ;", "text": "Zet de datum van [[vandaag]] in je cel.", "size": 190},
+    {"type": "reel_cta", "text": "en ontvang een gratis Excel-voorbeeld."}
+   ]}
+ ]
+}
