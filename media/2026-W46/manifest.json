@@ -1,0 +1,166 @@
+[
+ {
+  "id": "wo11-1000-story",
+  "kind": "story",
+  "when": "2026-11-11T10:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/wo11-1000-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "wo11-1800-reel",
+  "kind": "reel",
+  "when": "2026-11-11T18:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/wo11-1800-reel/reel.mp4"
+  ],
+  "caption": "Deze formule scheelt je eindeloos scrollen.\n\nX.ZOEKEN zoekt een waarde op in een lijst en geeft het bijbehorende antwoord terug. Ideaal voor prijslijsten, artikelcodes of klantgegevens.\n\n=X.ZOEKEN(wat je zoekt; waar je zoekt; wat je terug wilt)\n\nWerkt in Excel 365 en Excel 2021 of nieuwer.\n\n📌 Bewaar deze reel.\n👉 Stuur “EXCEL” en ontvang een gratis voorbeeld.\n\n#exceltips #xzoeken #excelformules #excel #ondernemer #mkb #zzp #administratie #slimmerwerken #excelbaas",
+  "first_comment": "Welke formule moeten we volgende keer uitleggen?",
+  "cover": "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/wo11-1800-reel/cover.jpg"
+ },
+ {
+  "id": "wo11-2000-story",
+  "kind": "story",
+  "when": "2026-11-11T20:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/wo11-2000-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "do12-1000-story",
+  "kind": "story",
+  "when": "2026-11-12T10:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/do12-1000-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "do12-1800-feed",
+  "kind": "carousel",
+  "when": "2026-11-12T18:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/do12-1800-feed/01.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/do12-1800-feed/02.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/do12-1800-feed/03.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/do12-1800-feed/04.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/do12-1800-feed/05.png"
+  ],
+  "caption": "Elke aannemer kent het: een klant vraagt om een prijs, en jij zit ’s avonds nog met een rekenmachine en een WhatsApp-gesprek vol maten.\n\nMet een goede calculatiesheet vul je alleen de hoeveelheden in. Materiaal, arbeid, opslag en btw rekenen zichzelf uit. Prijs aanpassen? Eén cel, en je hele offerte klopt weer.\n\nGebouwd voor hoe jij werkt, niet andersom.\n\n👉 Stuur “EXCEL” en ontvang een gratis voorbeeld voor jouw vak.\n\n#aannemer #bouw #calculatie #offerte #zzpbouw #vakman #klusbedrijf #installateur #schilder #excelbaas",
+  "first_comment": "Hoe maak jij nu je offertes? Excel, een programma of nog op papier?"
+ },
+ {
+  "id": "do12-2000-story",
+  "kind": "story",
+  "when": "2026-11-12T20:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/do12-2000-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "vr13-1000-story",
+  "kind": "story",
+  "when": "2026-11-13T10:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/vr13-1000-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "vr13-1800-reel",
+  "kind": "reel",
+  "when": "2026-11-13T18:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/vr13-1800-reel/reel.mp4"
+  ],
+  "caption": "Geen standaard sjabloon, maar een systeem dat past bij hoe jij werkt.\n\n1. Jij vertelt wat je nodig hebt.\n2. Wij bouwen het, met formules die kloppen.\n3. Jij vult in, Excel rekent.\n\n👉 Stuur “EXCEL” en ontvang een gratis voorbeeld.\n\n#excel #maatwerk #ondernemer #mkb #zzp #automatisering #slimmerwerken #administratie #exceltips #excelbaas",
+  "first_comment": "Wat zou jij als eerste willen automatiseren?",
+  "cover": "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/vr13-1800-reel/cover.jpg"
+ },
+ {
+  "id": "vr13-2000-story",
+  "kind": "story",
+  "when": "2026-11-13T20:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/vr13-2000-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "za14-1000-feed",
+  "kind": "carousel",
+  "when": "2026-11-14T10:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/za14-1000-feed/01.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/za14-1000-feed/02.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/za14-1000-feed/03.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/za14-1000-feed/04.png"
+  ],
+  "caption": "Benieuwd hoe een slim Excel-systeem werkt? Probeer het zelf.\n\nIn ons gratis voorbeeld zitten drie systemen in één bestand: een calculatie, een urenregistratie en een dashboard. Alles rekent zichzelf uit.\n\n👉 Stuur “EXCEL” in een DM en je krijgt de link.\n\n#excel #gratis #exceltemplate #ondernemer #mkb #zzp #calculatie #urenregistratie #slimmerwerken #excelbaas",
+  "first_comment": "Al geprobeerd? Laat weten wat je ervan vindt."
+ },
+ {
+  "id": "za14-1800-story",
+  "kind": "story",
+  "when": "2026-11-14T18:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/za14-1800-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "za14-2000-story",
+  "kind": "story",
+  "when": "2026-11-14T20:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/za14-2000-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "zo15-1000-feed",
+  "kind": "carousel",
+  "when": "2026-11-15T10:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/zo15-1000-feed/01.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/zo15-1000-feed/02.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/zo15-1000-feed/03.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/zo15-1000-feed/04.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/zo15-1000-feed/05.png",
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/zo15-1000-feed/06.png"
+  ],
+  "caption": "Hoeveel herken jij er? 😅\n\nExcel is niet het probleem. De manier waarop het is opgezet wel. Met een goed systeem heb je één bestand, formules die kloppen en een overzicht dat iedereen snapt.\n\n👉 Stuur “EXCEL” en ontvang een gratis voorbeeld.\n\n#excel #ondernemer #herkenbaar #mkb #zzp #administratie #slimmerwerken #exceltips #ondernemen #excelbaas",
+  "first_comment": "Score van 0 tot 4? Zet hem hieronder."
+ },
+ {
+  "id": "zo15-1800-story",
+  "kind": "story",
+  "when": "2026-11-15T18:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/zo15-1800-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ },
+ {
+  "id": "zo15-2000-story",
+  "kind": "story",
+  "when": "2026-11-15T20:00",
+  "media": [
+   "https://raw.githubusercontent.com/ai2025dbd-code/excelbaas-media/main/media/2026-W46/zo15-2000-story/story.png"
+  ],
+  "caption": "",
+  "first_comment": ""
+ }
+]

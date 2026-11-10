@@ -1,0 +1,90 @@
+{
+ "week": "2026-W46",
+ "doelgroep": "bouw",
+ "items": [
+  {"id": "wo11-1000-story", "kind": "story", "when": "2026-11-11T10:00",
+   "story": {"type": "story_question", "question": "Hoe maak jij je offertes?", "options": ["In Excel", "Op papier", "Met een programma"]}},
+
+  {"id": "wo11-1800-reel", "kind": "reel", "when": "2026-11-11T18:00",
+   "frames": [
+    {"type": "reel_title", "headline": "Stop met zoeken in [[lange lijsten]]", "sub": "Eén formule doet het voor je."},
+    {"type": "reel_formula", "label": "Typ dit in je cel:", "formula": "=X.ZOEKEN(A2;Prijzen[Artikel];Prijzen[Prijs])", "text": "Excel zoekt de [[prijs]] bij het artikel op."},
+    {"type": "reel_tip", "kicker": "Zo werkt hij", "headline": "Wat zoek je.\nWaar zoek je.\n[[Wat wil je terug.]]", "size": 110},
+    {"type": "reel_tip", "kicker": "Let op", "headline": "Werkt in [[Excel 365]] en 2021", "text": "In de Nederlandse versie gebruik je puntkomma’s tussen de delen."},
+    {"type": "reel_cta"}
+   ],
+   "caption": "Deze formule scheelt je eindeloos scrollen.\n\nX.ZOEKEN zoekt een waarde op in een lijst en geeft het bijbehorende antwoord terug. Ideaal voor prijslijsten, artikelcodes of klantgegevens.\n\n=X.ZOEKEN(wat je zoekt; waar je zoekt; wat je terug wilt)\n\nWerkt in Excel 365 en Excel 2021 of nieuwer.\n\n📌 Bewaar deze reel.\n👉 Stuur “EXCEL” en ontvang een gratis voorbeeld.\n\n#exceltips #xzoeken #excelformules #excel #ondernemer #mkb #zzp #administratie #slimmerwerken #excelbaas",
+   "first_comment": "Welke formule moeten we volgende keer uitleggen?"},
+
+  {"id": "wo11-2000-story", "kind": "story", "when": "2026-11-11T20:00",
+   "story": {"type": "story_post", "of": "wo11-1800-reel", "headline": "Nieuwe reel: X.ZOEKEN in 15 seconden"}},
+
+  {"id": "do12-1000-story", "kind": "story", "when": "2026-11-12T10:00",
+   "story": {"type": "story_tip", "kicker": "Tip van de dag", "headline": "Vergrendel je [[formules]]", "text": "Controleren → Blad beveiligen. Zo overschrijft niemand per ongeluk je berekening."}},
+
+  {"id": "do12-1800-feed", "kind": "carousel", "when": "2026-11-12T18:00",
+   "slides": [
+    {"type": "cover", "headline": "Zo maakt een aannemer zijn offerte. [[Voor en na.]]", "sub": "Van rekenmachine naar een calculatie die zichzelf uitrekent.", "size": 118},
+    {"type": "compare", "headline": "Het verschil", "before_label": "Voor", "before": ["Maten via WhatsApp", "Prijzen uit je hoofd", "Totaal op de rekenmachine"], "after_label": "Na", "after": ["Hoeveelheden invullen", "Prijzen uit je eigen lijst", "Opslag, btw en totaal [[automatisch]]"]},
+    {"type": "table", "headline": "Maten invullen. [[Klaar.]]", "formula": "=D10*F10", "columns": ["Omschrijving", "Aantal", "Prijs", "Totaal"], "rows": [["Wandtegels 30x60", "24 m²", "€ 38", "€ 912"], ["Tegelwerk", "30 uur", "€ 52", "€ 1.560"], ["Sanitairpakket", "1 post", "€ 1.850", "€ 1.850"], ["+ 5 andere posten", "", "", ""]], "total_label": "Totaal incl. btw", "total": "€ 8.927,02"},
+    {"type": "bullets", "headline": "Wat je [[wint]]", "items": [{"icon": "clock", "title": "Sneller een prijs", "text": "Geen avonden meer rekenen."}, {"icon": "check", "title": "Minder fouten", "text": "Eén prijs aanpassen, alles klopt weer."}, {"icon": "file", "title": "Professionele offerte", "text": "Elke keer dezelfde, nette opbouw."}]},
+    {"type": "cta", "highlight": "gratis voorbeeld voor jouw vak"}
+   ],
+   "caption": "Elke aannemer kent het: een klant vraagt om een prijs, en jij zit ’s avonds nog met een rekenmachine en een WhatsApp-gesprek vol maten.\n\nMet een goede calculatiesheet vul je alleen de hoeveelheden in. Materiaal, arbeid, opslag en btw rekenen zichzelf uit. Prijs aanpassen? Eén cel, en je hele offerte klopt weer.\n\nGebouwd voor hoe jij werkt, niet andersom.\n\n👉 Stuur “EXCEL” en ontvang een gratis voorbeeld voor jouw vak.\n\n#aannemer #bouw #calculatie #offerte #zzpbouw #vakman #klusbedrijf #installateur #schilder #excelbaas",
+   "first_comment": "Hoe maak jij nu je offertes? Excel, een programma of nog op papier?"},
+
+  {"id": "do12-2000-story", "kind": "story", "when": "2026-11-12T20:00",
+   "story": {"type": "story_post", "of": "do12-1800-feed", "headline": "Nieuw: de offerte van een aannemer, voor en na"}},
+
+  {"id": "vr13-1000-story", "kind": "story", "when": "2026-11-13T10:00",
+   "story": {"type": "story_question", "question": "Waar verlies jij de meeste tijd aan?", "options": ["Offertes", "Uren bijhouden", "Facturen"]}},
+
+  {"id": "vr13-1800-reel", "kind": "reel", "when": "2026-11-13T18:00",
+   "frames": [
+    {"type": "reel_title", "headline": "Zo bouwen wij jouw [[Excel-systeem]]", "sub": "In drie stappen."},
+    {"type": "reel_tip", "kicker": "Stap 1", "headline": "Jij vertelt [[hoe je werkt]]", "text": "Een kort gesprek over je huidige werkwijze en waar het knelt."},
+    {"type": "reel_tip", "kicker": "Stap 2", "headline": "Wij bouwen de [[formules]]", "text": "Op maat, getest, en beveiligd tegen per ongeluk overschrijven."},
+    {"type": "reel_formula", "label": "Stap 3: alles rekent zichzelf uit", "formula": "=SOM.ALS(Uren[Klant];A2;Uren[Bedrag])", "text": "Per klant [[automatisch]] opgeteld."},
+    {"type": "reel_cta"}
+   ],
+   "caption": "Geen standaard sjabloon, maar een systeem dat past bij hoe jij werkt.\n\n1. Jij vertelt wat je nodig hebt.\n2. Wij bouwen het, met formules die kloppen.\n3. Jij vult in, Excel rekent.\n\n👉 Stuur “EXCEL” en ontvang een gratis voorbeeld.\n\n#excel #maatwerk #ondernemer #mkb #zzp #automatisering #slimmerwerken #administratie #exceltips #excelbaas",
+   "first_comment": "Wat zou jij als eerste willen automatiseren?"},
+
+  {"id": "vr13-2000-story", "kind": "story", "when": "2026-11-13T20:00",
+   "story": {"type": "story_post", "of": "vr13-1800-reel", "headline": "Nieuwe reel: zo bouwen we jouw systeem"}},
+
+  {"id": "za14-1000-feed", "kind": "carousel", "when": "2026-11-14T10:00",
+   "slides": [
+    {"type": "cover", "headline": "Gratis: [[3 Excel-systemen]] in één bestand", "sub": "Probeer zelf hoe het werkt. Zonder kosten, zonder verplichtingen.", "size": 120},
+    {"type": "bullets", "headline": "Wat zit erin", "items": [{"icon": "calculator", "title": "Calculatie", "text": "Offerte met opslag en btw, automatisch."}, {"icon": "clock", "title": "Urenregistratie", "text": "Uren per klant, factuurbedrag erbij."}, {"icon": "chart", "title": "Dashboard", "text": "Alle cijfers in één oogopslag."}]},
+    {"type": "steps", "headline": "Zo [[krijg]] je het", "items": [{"title": "Stuur “EXCEL” in een DM", "text": "Een woord is genoeg."}, {"title": "Je ontvangt de link", "text": "Direct te downloaden."}, {"title": "Probeer het uit", "text": "Pas de groene cellen aan en kijk wat er gebeurt."}]},
+    {"type": "cta"}
+   ],
+   "caption": "Benieuwd hoe een slim Excel-systeem werkt? Probeer het zelf.\n\nIn ons gratis voorbeeld zitten drie systemen in één bestand: een calculatie, een urenregistratie en een dashboard. Alles rekent zichzelf uit.\n\n👉 Stuur “EXCEL” in een DM en je krijgt de link.\n\n#excel #gratis #exceltemplate #ondernemer #mkb #zzp #calculatie #urenregistratie #slimmerwerken #excelbaas",
+   "first_comment": "Al geprobeerd? Laat weten wat je ervan vindt."},
+
+  {"id": "za14-1800-story", "kind": "story", "when": "2026-11-14T18:00",
+   "story": {"type": "story_tip", "kicker": "Weekend-tip", "headline": "Ctrl + ;", "text": "Zet in één keer de datum van vandaag in een cel. Handig voor je urenregistratie.", "size": 180}},
+
+  {"id": "za14-2000-story", "kind": "story", "when": "2026-11-14T20:00",
+   "story": {"type": "story_question", "question": "Wat wil je volgende week zien?", "options": ["Meer formules", "Meer voorbeelden"]}},
+
+  {"id": "zo15-1000-feed", "kind": "carousel", "when": "2026-11-15T10:00",
+   "slides": [
+    {"type": "cover", "headline": "Ondernemers met Excel [[herkennen dit]]", "sub": "Swipe en tel hoeveel je er herkent.", "size": 130},
+    {"type": "statement", "headline": "Je bestand heet\n[[definitief_v3_\nNIEUW.xlsx]]", "size": 104},
+    {"type": "statement", "headline": "Eén cel aangepast en alles staat op [[#VERW!]]", "size": 100},
+    {"type": "statement", "headline": "Je rekent het totaal [[nog even na]] met je rekenmachine", "size": 96},
+    {"type": "statement", "headline": "Niemand anders [[snapt]] jouw bestand", "size": 110},
+    {"type": "cta", "line": "en wij maken er een", "highlight": "systeem van dat klopt", "sub": "Gratis voorbeeld: calculatie, uren en dashboard in één bestand."}
+   ],
+   "caption": "Hoeveel herken jij er? 😅\n\nExcel is niet het probleem. De manier waarop het is opgezet wel. Met een goed systeem heb je één bestand, formules die kloppen en een overzicht dat iedereen snapt.\n\n👉 Stuur “EXCEL” en ontvang een gratis voorbeeld.\n\n#excel #ondernemer #herkenbaar #mkb #zzp #administratie #slimmerwerken #exceltips #ondernemen #excelbaas",
+   "first_comment": "Score van 0 tot 4? Zet hem hieronder."},
+
+  {"id": "zo15-1800-story", "kind": "story", "when": "2026-11-15T18:00",
+   "story": {"type": "story_tip", "kicker": "Week 1 klaar", "headline": "Volgende week: [[zzp'ers]]", "text": "Uren bijhouden, facturen maken en weten wat je verdient. Zet je meldingen aan."}},
+
+  {"id": "zo15-2000-story", "kind": "story", "when": "2026-11-15T20:00",
+   "story": {"type": "story_question", "question": "Wat wil jij automatiseren?", "options": ["Offertes", "Facturen", "Planning"]}}
+ ]
+}
